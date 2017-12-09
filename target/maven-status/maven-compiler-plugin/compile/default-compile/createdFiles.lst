@@ -1,0 +1,12 @@
+com\javaparser\controllers\Java_Parser.class
+com\javaparser\controllers\Controller$1.class
+com\javaparser\controllers\Controller.class
+com\javaparser\model\ArrowLine.class
+com\javaparser\model\DiagramNode.class
+com\javaparser\model\Variable.class
+com\javaparser\model\DragContext.class
+com\javaparser\model\Container.class
+com\javaparser\MainApp.class
+com\javaparser\model\Function.class
+com\javaparser\model\RelaType.class
+com\javaparser\model\ClassDiagram.class
